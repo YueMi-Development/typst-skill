@@ -1,0 +1,17 @@
+{
+  "name": "typst-skills",
+  "version": "1.0.0",
+  "description": "Typst Skills For LLM or AI Agents.",
+  "keywords": [
+    "skills"
+  ],
+  "author": "YueMi-Development",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YueMi-Development/typst-skill.git"
+  },
+  "extra": {
+    "ai-agent-skill": "skills/*/SKILL.md"
+  }
+}
